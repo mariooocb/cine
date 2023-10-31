@@ -1,2 +1,2 @@
 # cine
-whit Spring boot
+My first API on a cinema system
